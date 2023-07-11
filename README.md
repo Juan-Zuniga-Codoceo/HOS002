@@ -1,4 +1,4 @@
-# drilling007
+# Heroes of the Storm
 
 ## Project setup
 ```
